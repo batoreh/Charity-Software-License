@@ -1,5 +1,5 @@
 #Charity Software License 
-Copyright (c) _<year>_ _<copyright holders>_
+Copyright (c) _[year]_ _[copyright holders]_
 
 Permission is hereby granted, free of charge, to any person (the "Person") obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software, including the rights to use, copy, modify, merge, publish, distribute the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
